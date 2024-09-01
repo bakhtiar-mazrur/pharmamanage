@@ -8,6 +8,7 @@ public class PharmacyManagementApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PharmacyManagementApplication.class, args);
+//		System.out.println("Jolly Good");
 	}
 
 }
